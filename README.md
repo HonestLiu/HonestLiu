@@ -2,19 +2,20 @@
 **自我介绍:** 我是一名大一学生，虽然早在初中就已接触编程，但由于学业放下了许多年，如今升入大学，有了时间，从去年十月开始重新拾取爱好，希望我这次能玩的尽兴！！😄
 
 **目前已学习/正在玩内容:**
-- 后端：目前只做个一个完整的SpringMvc项目
-  - Java
+- 后端：目前做过一个完整的SpringMvc项目
+  - JavaEE
   - JavaWeb
+  - MySql
   - SpringMvc
+- 前端
+  - HTML
+  - JavaScript(ing~)
 - 嵌入式
   - C
   - C++
   - Qt
   - Unix网络/系统编程
   - STM32(ing~)
-- 前端
-  - HTML
-  - JavaScript(ing~)
  - 其它
    - Python(ing~)
 <!--
