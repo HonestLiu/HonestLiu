@@ -5,22 +5,9 @@
 > [!TIP]
 > 我不是计算机专业的学生，我学计算机单纯为了玩，所以学的比较多和杂，如果有人看到这个记得不要学我😄
 
-- 后端：目前做过一个完整的SpringMvc项目
-  - JavaEE
-  - JavaWeb
-  - MySql
-  - SpringMvc
-- 前端
-  - HTML
-  - JavaScript(ing~)
 - 嵌入式
-  - C
-  - C++
-  - Qt
-  - Unix网络/系统编程
-  - STM32(ing~)
- - 其它
-   - Python(ing~)
+- Python
+
 <!--
 **HonestLiu/HonestLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
