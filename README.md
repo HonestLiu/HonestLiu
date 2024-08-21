@@ -1,12 +1,6 @@
-- 😋About me: 
+**😋About me: **
 
   I'm a first-year university student from China. Though I've been dabbling in programming since my middle school years, I've had to set it aside for many years due to my academic commitments. Now, with university on the horizon and some free time, I've been back into my passion since last October. I'm hoping to make the most of it this time! 😄
-
-- 🌱 I’m currently learning:
-
-  - GD32&STM32
-  - English
-  - Japanese(major🫠)
 
 <!--
 **HonestLiu/HonestLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
